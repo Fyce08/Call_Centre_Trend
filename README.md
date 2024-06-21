@@ -31,9 +31,9 @@ These rankings provide a comprehensive overview of agent performance based on ca
 3.     Overall Satisfaction Rating: The overall satisfaction rating is 2.76 which aggregates individual satisfaction ratings across all agents and interactions, providing a comprehensive snapshot of the overall customer experience.
 
 **Recommendations.**   
-·       Enhanced Agent Training: Invest in ongoing training programs to further improve agent performance and enhance customer satisfaction.
-·       Diversification of Service Channels: Continue to expand online support capabilities to cater to evolving customer preferences and increase accessibility.
-·       Focus on Call Resolution: Implement strategies to reduce the number of unresolved calls, potentially through improved training, streamlined processes, and access to additional resources.
-·       Monitoring and Feedback: Establish a robust monitoring system to track call metrics continuously and gather feedback from both agents and customers to identify areas for improvement.
-·       Technology Integration: Explore opportunities to integrate advanced technologies such as AI-powered chatbots to augment agent capabilities and improve overall efficiency in handling customer queries.
+1. Enhanced Agent Training: Invest in ongoing training programs to further improve agent performance and enhance customer satisfaction.  
+2. Diversification of Service Channels: Continue to expand online support capabilities to cater to evolving customer preferences and increase accessibility.    
+3. Focus on Call Resolution: Implement strategies to reduce the number of unresolved calls, potentially through improved training, streamlined processes, and access to additional resources.   
+4. Monitoring and Feedback: Establish a robust monitoring system to track call metrics continuously and gather feedback from both agents and customers to identify areas for improvement.   
+5. Technology Integration: Explore opportunities to integrate advanced technologies such as AI-powered chatbots to augment agent capabilities and improve overall efficiency in handling customer queries.   
 Implementing these recommendations will enhance PwC's call centre operations, improve customer satisfaction, and strengthen its position in delivering exceptional service to clients.
