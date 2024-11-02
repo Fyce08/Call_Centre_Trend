@@ -1,6 +1,6 @@
 # Call_Centre_Trend
 **PwC Call Centre Trend Analysis**   
-The provided dataset offers insights into PwC's call centre operations, focusing on agent performance, service channels, call duration, satisfaction ratings, and overall call resolution rates
+The provided dataset offers insights into PwC's call centre operations, focusing on agent performance, service channels, call duration, satisfaction ratings, and overall call resolution rates. Kindly view the visualisation [HERE](https://app.powerbi.com/groups/bc68d390-83a7-4509-8fde-142551e44e53/reports/13ac0e6a-ae10-4620-b2a0-2162f2185370/ReportSection5094e99c4cb456053823?experience=power-bi)
 
 1.     Agent Performance Metrics:
 ·       Total Calls: 5000
